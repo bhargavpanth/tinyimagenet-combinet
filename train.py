@@ -8,7 +8,8 @@ import h5py
 sys.path.insert(0, os.path.dirname(__file__))
 
 from datasets.tiny_imagenet import *
-from models.baseline_model import *
+# from models.baseline_model import *
+from models.combinet.py import *
 
 from tflearn.data_utils import shuffle
 
