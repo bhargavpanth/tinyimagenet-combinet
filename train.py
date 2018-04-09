@@ -1,6 +1,3 @@
-"""Tutorial for the CS7GV1 Computer Vision 17/18 lecture at Trinity College Dublin.
-
-This script trains a simple baseline_model on the tiny-imagenet dataset."""
 
 import sys
 import os
